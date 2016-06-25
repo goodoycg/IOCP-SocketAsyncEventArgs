@@ -1,0 +1,11 @@
+F:\SocketAsyncEventArgs\Bin\NETUploadClient.exe.config
+F:\SocketAsyncEventArgs\Bin\NETUploadClient.exe.manifest
+F:\SocketAsyncEventArgs\Bin\NETUploadClient.application
+F:\SocketAsyncEventArgs\Bin\NETUploadClient.exe
+F:\SocketAsyncEventArgs\Bin\NETUploadClient.pdb
+F:\SocketAsyncEventArgs\NET_Source\NETUploadClient\obj\Debug\NETUploadClient.TrustInfo.xml
+F:\SocketAsyncEventArgs\NET_Source\NETUploadClient\obj\Debug\NETUploadClient.exe.manifest
+F:\SocketAsyncEventArgs\NET_Source\NETUploadClient\obj\Debug\NETUploadClient.application
+F:\SocketAsyncEventArgs\NET_Source\NETUploadClient\obj\Debug\NETUploadClient.exe
+F:\SocketAsyncEventArgs\NET_Source\NETUploadClient\obj\Debug\NETUploadClient.pdb
+F:\SocketAsyncEventArgs\NET_Source\NETUploadClient\obj\Debug\NETUploadClient.csprojResolveAssemblyReference.cache

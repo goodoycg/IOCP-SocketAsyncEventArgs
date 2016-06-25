@@ -1,0 +1,23 @@
+2016/6/20 16:41:49;Info;Open Port: 9999 Success
+2016/6/20 16:41:49;Info;Open Server Success
+2016/6/20 16:42:35;Debug;Client Connect, Local Address: 192.168.3.190:9999; Remote Address: 192.168.3.155:4189
+2016/6/20 16:42:35;Debug;Client Count: 1
+2016/6/20 16:42:35;Debug;Client Connect, Local Address: 192.168.3.190:9999; Remote Address: 192.168.3.155:4190
+2016/6/20 16:42:35;Debug;Client Count: 2
+2016/6/20 16:42:35;Info;User: admin Login
+2016/6/20 16:42:40;Info;Change Option Set
+2016/6/20 16:42:54;Debug;Client Connect, Local Address: 192.168.3.190:9999; Remote Address: 192.168.3.155:4191
+2016/6/20 16:42:54;Debug;Client Count: 3
+2016/6/20 16:42:54;Info;User: admin Login
+2016/6/20 16:42:59;Debug;Client Connect, Local Address: 192.168.3.190:9999; Remote Address: 192.168.3.155:4192
+2016/6/20 16:42:59;Debug;Client Count: 4
+2016/6/20 16:42:59;Info;User: admin Login
+2016/6/20 16:45:31;Debug;Client Connect, Local Address: 192.168.3.190:9999; Remote Address: 192.168.3.191:49331
+2016/6/20 16:45:31;Debug;Client Count: 5
+2016/6/20 16:45:31;Debug;Client Connect, Local Address: 192.168.3.190:9999; Remote Address: 192.168.3.191:49332
+2016/6/20 16:45:31;Debug;Client Count: 6
+2016/6/20 16:45:32;Info;User: admin Login
+2016/6/20 16:47:34;Debug;Client Disconnect, Local Address: 192.168.3.190:9999; Remote Address: 192.168.3.155:4189
+2016/6/20 16:47:34;Debug;Client Disconnect, Local Address: 192.168.3.190:9999; Remote Address: 192.168.3.155:4190
+2016/6/20 16:47:34;Debug;Client Disconnect, Local Address: 192.168.3.190:9999; Remote Address: 192.168.3.155:4191
+2016/6/20 16:47:34;Debug;Client Disconnect, Local Address: 192.168.3.190:9999; Remote Address: 192.168.3.155:4192

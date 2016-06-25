@@ -1,0 +1,5 @@
+F:\SocketAsyncEventArgs\Bin\SocketAsyncSvr.exe.config
+F:\SocketAsyncEventArgs\Bin\SocketAsyncSvr.exe
+F:\SocketAsyncEventArgs\Bin\SocketAsyncSvr.pdb
+F:\SocketAsyncEventArgs\NET_Source\NETIOCPSvr\obj\x86\Debug\SocketAsyncSvr.exe
+F:\SocketAsyncEventArgs\NET_Source\NETIOCPSvr\obj\x86\Debug\SocketAsyncSvr.pdb
